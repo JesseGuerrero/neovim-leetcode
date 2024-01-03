@@ -1,0 +1,13 @@
+# This is the leetgo project level config, global config is at /home/jesse/.config/leetgo/config.yaml
+# For more details, please refer to https://github.com/j178/leetgo
+language: en
+code:
+  lang: python
+leetcode:
+  site: https://leetcode.com
+  credentials:
+    from: browser
+    browsers: []
+editor:
+  use: custom 
+  command: "nvim"
